@@ -15,7 +15,7 @@ description: This chapter will teach you more about how your data is collected.
 _<mark style="color:green;">Following an Appointment, the doctor will update your medical record. For billing purposes, this information may be shared with the insurance company. In such cases, your medical record, or part of it, is now accessible at the insurance company.</mark>_
 
 {% hint style="danger" %}
-_<mark style="color:red;">Make sure Your Secure your data by not giving every bit of information out cuz you never know how far your data can travel and whose hands it will land on</mark>_
+_<mark style="color:red;">Make sure You Secure your data by not giving every bit of information out cuz you never know how far your data can travel and whose hands it will land on</mark>_
 {% endhint %}
 {% endtab %}
 

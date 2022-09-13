@@ -1,9 +1,3 @@
----
-description: >-
-  This course is still under development you can contribute too. It is free to
-  the public 'for Knowledge is free so share as much as you can'
----
-
 # Introduction
 
 Hey guys!

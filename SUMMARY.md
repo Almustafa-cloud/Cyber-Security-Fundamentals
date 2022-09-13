@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Whoami](README.md)
+* [😌 Whoami](README.md)
 * [Introduction](introduction.md)
 
 ## Courses

@@ -4,7 +4,9 @@ description: About me
 
 # Whoami
 
-Muhammad Almustafa Garba&#x20;
+<figure><img src=".gitbook/assets/pp.jpg" alt=""><figcaption><p>Muhammad Almustafa Garba </p></figcaption></figure>
+
+
 
 Husband and a father to be, Immigration Officer, Student, Security n00b. Interested in Cyber Security Research, Pen testing, RED Teaming, & Threat Hunting.
 

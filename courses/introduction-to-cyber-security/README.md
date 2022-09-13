@@ -19,4 +19,4 @@ On completing this course, you will be able to:
 * Explain how organizations can protect their operations against these attacks.
 * Access various information and resources to explore the different career options in cybersecurity.
 
-We want you to succeed so we have put together everything you need to get you started here.
+I want you to succeed so i've put together everything you need to get you started here.

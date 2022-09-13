@@ -7,7 +7,7 @@
 
 * [Introduction to Cyber Security](courses/introduction-to-cyber-security/README.md)
   * [Module 1 (Introduction)](courses/introduction-to-cyber-security/module-1-introduction/README.md)
-    * [The World of Cyber Security](courses/introduction-to-cyber-security/module-1-introduction/the-world-of-cyber-security/README.md)
+    * [🌍 The World of Cyber Security](courses/introduction-to-cyber-security/module-1-introduction/the-world-of-cyber-security/README.md)
       * [001 What Is Cybersecurity?](courses/introduction-to-cyber-security/module-1-introduction/the-world-of-cyber-security/001-what-is-cybersecurity.md)
       * [002 Protecting Your Personal Data](courses/introduction-to-cyber-security/module-1-introduction/the-world-of-cyber-security/002-protecting-your-personal-data.md)
       * [003 Personal Data](courses/introduction-to-cyber-security/module-1-introduction/the-world-of-cyber-security/003-personal-data.md)

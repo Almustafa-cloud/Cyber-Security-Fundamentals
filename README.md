@@ -1,3 +1,7 @@
+---
+description: About me
+---
+
 # Whoami
-This course is still under development you can contribute is free to the public 
-Knowledge is free so share as much as you can
+
+> Cybersecurity Enthusiast||Digital forensics🔍||Tech  ||Cloud☁️ ||Learning Dev 👨🏾‍💻 + UI/UX 👨‍🎨 ||dTr Founder || Freelancer💯||RIJF🪦 Muh’d Al-Ameen 🤲🏾

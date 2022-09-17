@@ -6,7 +6,8 @@ description: About me
 
 <figure><img src=".gitbook/assets/pp.jpg" alt=""><figcaption><p>Muhammad Almustafa Garba </p></figcaption></figure>
 
-Husband and a father to be, Immigration Officer, Student, Security n00b. Interested in Cyber Security Research, Pen testing, RED Teaming, & Threat Hunting.
+I am a Husband and a Father to be, An Immigration Officer [@NIS](https://portal.immigration.gov.ng/pages/welcome), Student, Security n00b. Interested in Ethical Hacking and Penetration Testing, Cyber Security Research, Digital Forensics, RED Teaming, & Threat Hunting, UI/UX Design, Web and App development, I love doing Tech Support jobs, so that I can ease your day 2 day use of tech devices, I cofounded @dTr\_inc and @dTr\_Edu to help share the knowledge I am gathering kindly check it out. I love freelancing especially when it comes to Visual assisting and writing I can say it's a gift from God!
 
-i love doing Tech Support so i can ease your day to day use of tech devices, i am learning Web and App Development, i know UI/UX, did some cool project design too
+lastly, I'm a billionaire in the making in sha Allah Imma get one
 
+> _<mark style="color:red;">**"RIJF Brother Al-ameen I miss you Bruh".**</mark>_&#x20;
